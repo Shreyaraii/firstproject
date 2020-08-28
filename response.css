@@ -1,0 +1,33 @@
+@media only screen and (min-width: 400px){
+#main{
+	width: 100%
+}
+
+#header{
+	padding: 20px;
+}
+
+.inside{
+	width: 100%;
+}
+
+.info{
+	width: 100%;
+}
+
+.edu{
+	width: 100%;
+}
+
+.social{
+	width: 100%;
+}
+
+.int{
+	width: 100%;
+}
+
+.skill{
+	width: 100%;
+}
+}
